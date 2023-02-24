@@ -1,2 +1,2 @@
 # Projects
-Various projects I have worked on and finished.
+Various projects I've created to practice and refine my coding skills. 
